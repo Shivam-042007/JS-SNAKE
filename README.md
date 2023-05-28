@@ -1,4 +1,4 @@
-# JS-SNAKE
+# JS-SNAKE [https://shivam-042007.github.io/JS-SNAKE/]
 # Description:
 The is a javascript snake game, with very simple & attractive ui.
 90's Kids could recall the moment when they used to play snake game on nokia mobile.
